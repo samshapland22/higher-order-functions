@@ -1,3 +1,5 @@
+//NOT HIGHER ORDER FUNCTIONS
+
 //A SIMPLE FUNCTION:
 
 function hello(str) {
@@ -23,4 +25,4 @@ let half = function (number) {
 
 // let cookie = half;
 
-// console.log("cookie(12) -> ", cookie(8));
+// console.log("cookie(8) -> ", cookie(8));
